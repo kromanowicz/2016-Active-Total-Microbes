@@ -1,4 +1,4 @@
-# 2016 Romanowicz et al. FEMS Microbiology Ecology
+# Romanowicz et al., 2016, FEMS Microbiology Ecology
 
 **Manuscript:** Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture [(DOI: 10.1093/femsec/fiw149)](https://academic.oup.com/femsec/article/92/10/fiw149/2197794?login=true)
 
