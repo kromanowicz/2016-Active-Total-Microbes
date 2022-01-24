@@ -1,4 +1,5 @@
 ### This repository redirects to the Zak Lab GitHub page which hosts original repository
+____________________________________________________________
 
 Romanowicz, KJ, Freedman, ZB, Upchurch RA, Argiroff, WA, Zak, DR. **(2016)** Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture. ***FEMS Microbiology Ecology*** 92(10): fiw149. [https://doi.org/10.1093/femsec/fiw149](https://doi.org/10.1093/femsec/fiw149)
 
