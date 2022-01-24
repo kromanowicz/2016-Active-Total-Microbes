@@ -10,7 +10,7 @@
 
 **Zak Lab Repository:** [MI_Gradient_Romanowicz_2016](https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016)
 
-**Link to Rendered Code:** [RPubs Reproducible RMarkdown Code for Complete Analysis](https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016)
+**Link to Rendered Code:** [RPubs Reproducible RMarkdown Code](https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016) for complete data analysis
 
 **Raw .fastq Files:**
 Original .fastq files submitted to NCBI Sequence Read Archive under BioProject [PRJNA222775](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA222775)
