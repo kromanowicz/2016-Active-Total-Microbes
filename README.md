@@ -12,9 +12,8 @@
 
 **Link to Rendered Code:** [RPubs Reproducible RMarkdown Code](https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016) for complete data analysis
 
-**Raw .fastq Files:**
-Original .fastq files submitted to NCBI Sequence Read Archive under BioProject [PRJNA222775](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA222775)
+**NCBI BioProject:** [PRJNA222775](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA222775) for raw .fastq files
 
-SRA accession numbers [SRR1944476](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944476) and [SRR1944477](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944477).
+**SRA Accession Numbers:** [SRR1944476](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944476) and [SRR1944477](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944477).
 
 Direct any questions regarding this repository to lead author [Karl J. Romanowicz](mailto:kjromano@umich.edu).
