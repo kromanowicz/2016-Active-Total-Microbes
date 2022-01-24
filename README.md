@@ -1,16 +1,10 @@
-### Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture
+## This repository redirects to the Zak Lab GitHub page which hosts original repository
 
-**Link to Paper:** [DOI: 10.1093/femsec/fiw149](https://academic.oup.com/femsec/article/92/10/fiw149/2197794?login=true)
+Romanowicz, KJ, Freedman, ZB, Upchurch RA, Argiroff, WA, Zak, DR. **(2016)** Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture. ***FEMS Microbiology Ecology*** 92(10): fiw149. [https://doi.org/10.1093/femsec/fiw149](https://doi.org/10.1093/femsec/fiw149)
 
-**Authors:** Karl J. Romanowicz, Z.B. Freedman, R.A. Upchurch, W.A. Argiroff, and D.R. Zak
+**Zak Lab Repository:** [https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016](https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016)
 
-**Published:** *FEMS Microbiology Ecology 2016, 92(10): fiw149*
-
-### This repository redirects to the Zak Lab GitHub page which hosts original repository
-
-**Zak Lab Repository:** [MI_Gradient_Romanowicz_2016](https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016)
-
-**Link to Rendered Code:** [RPubs Reproducible RMarkdown Code](https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016) for complete data analysis
+**Rendered Code:** [https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016](https://rpubs.com/kjromano/MI_Gradient_Romanowicz_2016)
 
 **NCBI BioProject:** [PRJNA222775](http://www.ncbi.nlm.nih.gov/bioproject/PRJNA222775) for raw .fastq files
 
