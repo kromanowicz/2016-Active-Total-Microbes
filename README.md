@@ -4,7 +4,7 @@
 
 **Authors:** Karl J. Romanowicz, Z.B. Freedman, R.A. Upchurch, W.A. Argiroff, and D.R. Zak
 
-**Accepted in:** ***FEMS Microbiology Ecology*** on July 6, 2016
+**Accepted in:** *FEMS Microbiology Ecology 92(10): fiw149* on July 6, 2016
 
 ### This repository redirects to the Zak Lab GitHub page which hosts original repository
 
