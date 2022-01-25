@@ -12,3 +12,5 @@ Romanowicz, KJ, Freedman, ZB, Upchurch RA, Argiroff, WA, Zak, DR. **(2016)** Act
 **SRA Accession Numbers:** [SRR1944476](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944476) and [SRR1944477](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944477).
 
 Direct any questions regarding this repository to lead author [Karl J. Romanowicz](mailto:kjromano@umich.edu).
+
+![ ](Images/FEMS.png)
