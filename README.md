@@ -1,7 +1,7 @@
 ### This repository redirects to the Zak Lab GitHub which hosts the original repository
 ____________________________________________________________
 
-Romanowicz, KJ, Freedman, ZB, Upchurch RA, Argiroff, WA, Zak, DR. **(2016)** Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture. ***FEMS Microbiology Ecology*** 92(10): fiw149. [https://doi.org/10.1093/femsec/fiw149](https://doi.org/10.1093/femsec/fiw149)
+Romanowicz KJ, Freedman ZB, Upchurch RA, Argiroff WA, Zak DR. **(2016)** Active microorganisms in forest soils differ from the total community yet are shaped by the same environmental factors: the influence of pH and soil moisture. ***FEMS Microbiology Ecology*** 92(10): fiw149. [https://doi.org/10.1093/femsec/fiw149](https://doi.org/10.1093/femsec/fiw149)
 
 **Zak Lab Repository:** [https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016](https://github.com/ZakLab-Soils/MI_Gradient_Romanowicz_2016)
 
@@ -11,6 +11,6 @@ Romanowicz, KJ, Freedman, ZB, Upchurch RA, Argiroff, WA, Zak, DR. **(2016)** Act
 
 **SRA Accession Numbers:** [SRR1944476](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944476) and [SRR1944477](http://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR1944477).
 
-Direct any questions regarding this repository to lead author [Karl J. Romanowicz](mailto:kjromano@umich.edu).
+**Direct any questions regarding this repository to lead author:** [Karl J. Romanowicz](mailto:kjromano@umich.edu).
 
 ![ ](Images/FEMS.png)
